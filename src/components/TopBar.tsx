@@ -27,9 +27,7 @@ export const TopBar: React.FC = () => {
         </nav>
         
         <div className="w-8 h-8 rounded-full overflow-hidden border border-white/10 bg-[#2a2a2a]">
-          <div className="w-full h-full flex items-center justify-center text-xs">
-            👤
-          </div>
+          <img src="/avatar.jpg" alt="avatar" className="w-full h-full object-cover" />
         </div>
       </div>
     </header>
