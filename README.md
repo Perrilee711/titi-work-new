@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# titi-music
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/a7e1cd08-dce1-44db-8dd3-8769ee705493
+Titi's Playlist - A music archive built with React + Vercel.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+```bash
+npm install
+npm run dev
+```
 
+## Deploy
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Push to `main` branch → Vercel auto-deploys.
