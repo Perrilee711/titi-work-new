@@ -12,3 +12,4 @@ npm run dev
 ## Deploy
 
 Push to `main` branch → Vercel auto-deploys.
+# Trigger deploy 2026年 4月13日 星期一 18时34分03秒 CST
